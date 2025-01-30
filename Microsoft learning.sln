@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Write your first code using
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Write your first C# code", "Write your first C# code", "{0493BF00-D61F-45BE-BA3E-7C1BF9BD5736}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Store and retrieve data using literal and variable values in C#", "Store and retrieve data using literal and variable values in C#", "{7D265B45-9B2F-4355-A555-9B5A0C4A2B6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traning", "Traning\Traning.csproj", "{3E145377-ED0B-4C5A-9EE6-C2923C799D86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,10 @@ Global
 		{BF4456DA-D99C-45BE-AD49-90A19E5407A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF4456DA-D99C-45BE-AD49-90A19E5407A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF4456DA-D99C-45BE-AD49-90A19E5407A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E145377-ED0B-4C5A-9EE6-C2923C799D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E145377-ED0B-4C5A-9EE6-C2923C799D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E145377-ED0B-4C5A-9EE6-C2923C799D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E145377-ED0B-4C5A-9EE6-C2923C799D86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -26,5 +34,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{BF4456DA-D99C-45BE-AD49-90A19E5407A4} = {0493BF00-D61F-45BE-BA3E-7C1BF9BD5736}
 		{0493BF00-D61F-45BE-BA3E-7C1BF9BD5736} = {55CDE3B3-8436-4C4B-B276-F4E06B454638}
+		{7D265B45-9B2F-4355-A555-9B5A0C4A2B6F} = {55CDE3B3-8436-4C4B-B276-F4E06B454638}
+		{3E145377-ED0B-4C5A-9EE6-C2923C799D86} = {7D265B45-9B2F-4355-A555-9B5A0C4A2B6F}
 	EndGlobalSection
 EndGlobal
