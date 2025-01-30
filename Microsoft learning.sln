@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Write your first code using
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store and retrieve data using literal and variable values in C#", "Traning\Store and retrieve data using literal and variable values in C#.csproj", "{3E145377-ED0B-4C5A-9EE6-C2923C799D86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perform basic string formatting in C#", "Write your first code using C# (Get started with C#, Part 1)\Perform basic string formatting in C#\Perform basic string formatting in C#.csproj", "{A3DD74F7-602A-4349-ABCE-D81CE56851D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{3E145377-ED0B-4C5A-9EE6-C2923C799D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E145377-ED0B-4C5A-9EE6-C2923C799D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E145377-ED0B-4C5A-9EE6-C2923C799D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3DD74F7-602A-4349-ABCE-D81CE56851D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3DD74F7-602A-4349-ABCE-D81CE56851D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3DD74F7-602A-4349-ABCE-D81CE56851D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3DD74F7-602A-4349-ABCE-D81CE56851D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,5 +36,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{BF4456DA-D99C-45BE-AD49-90A19E5407A4} = {55CDE3B3-8436-4C4B-B276-F4E06B454638}
 		{3E145377-ED0B-4C5A-9EE6-C2923C799D86} = {55CDE3B3-8436-4C4B-B276-F4E06B454638}
+		{A3DD74F7-602A-4349-ABCE-D81CE56851D2} = {55CDE3B3-8436-4C4B-B276-F4E06B454638}
 	EndGlobalSection
 EndGlobal
