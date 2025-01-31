@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Call methods from the .NET 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add decision logic using `if`, `else`, and `else if`", "Create and run simple C# console applications (Get started with C#, Part 2)\Add decision logic using `if`, `else`, and `else if`\Add decision logic using `if`, `else`, and `else if`.csproj", "{B95EE56B-1EDE-4D8A-B595-F0A533755C0C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Create and run simple C# console applications (Get started with C#, Part 2)", "Create and run simple C# console applications (Get started with C#, Part 2)", "{20E584BB-8912-4181-905D-4F23D90A23D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -70,5 +72,7 @@ Global
 		{29C39EC9-4B7D-433D-8952-B737E6598B71} = {55CDE3B3-8436-4C4B-B276-F4E06B454638}
 		{0773F6D9-2A04-4D8E-BE6D-C5BA33A04502} = {55CDE3B3-8436-4C4B-B276-F4E06B454638}
 		{7F1064FB-884B-4657-B8B1-5A9AE080772C} = {55CDE3B3-8436-4C4B-B276-F4E06B454638}
+		{4A5EB12C-B551-4395-8F50-AD7FC47B7D29} = {20E584BB-8912-4181-905D-4F23D90A23D2}
+		{B95EE56B-1EDE-4D8A-B595-F0A533755C0C} = {20E584BB-8912-4181-905D-4F23D90A23D2}
 	EndGlobalSection
 EndGlobal
