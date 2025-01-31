@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guided project - Calculate 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guided project - Calculate final GPA", "Write your first code using C# (Get started with C#, Part 1)\Guided project - Calculate final GPA\Guided project - Calculate final GPA.csproj", "{7F1064FB-884B-4657-B8B1-5A9AE080772C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Call methods from the .NET Class Library using C#", "Create and run simple C# console applications (Get started with C#, Part 2)\Call methods from the .NET Class Library using C#\Call methods from the .NET Class Library using C#.csproj", "{4A5EB12C-B551-4395-8F50-AD7FC47B7D29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add decision logic using `if`, `else`, and `else if`", "Create and run simple C# console applications (Get started with C#, Part 2)\Add decision logic using `if`, `else`, and `else if`\Add decision logic using `if`, `else`, and `else if`.csproj", "{B95EE56B-1EDE-4D8A-B595-F0A533755C0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +51,14 @@ Global
 		{7F1064FB-884B-4657-B8B1-5A9AE080772C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F1064FB-884B-4657-B8B1-5A9AE080772C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F1064FB-884B-4657-B8B1-5A9AE080772C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A5EB12C-B551-4395-8F50-AD7FC47B7D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A5EB12C-B551-4395-8F50-AD7FC47B7D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A5EB12C-B551-4395-8F50-AD7FC47B7D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A5EB12C-B551-4395-8F50-AD7FC47B7D29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B95EE56B-1EDE-4D8A-B595-F0A533755C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95EE56B-1EDE-4D8A-B595-F0A533755C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95EE56B-1EDE-4D8A-B595-F0A533755C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95EE56B-1EDE-4D8A-B595-F0A533755C0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
